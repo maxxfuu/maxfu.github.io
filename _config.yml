@@ -151,7 +151,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .jekyll-assets-cache
+  # - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
   - Capfile
