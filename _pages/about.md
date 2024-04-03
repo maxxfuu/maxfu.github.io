@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👨🏻‍💻 I'm a first year pursuing Computer Science and Engineering with an empahsis on Machine Learning. 
-📚 I’m currently working towards my Bachelors Degress and I plan on pursuing a Masters Degress.
-✅ I am also interested in helping others on their path with learning Machine Learning. 
+👨🏻‍💻 I'm a first year pursuing Computer Science and Engineering with an empahsis on Machine Learning.  
+📚 I’m currently working towards my Bachelors Degress and I plan on pursuing a Masters Degress.  
+✅ I am also interested in helping others on their path with learning Machine Learning.  
 Relevant Experiences
 ======
 🔬 Currently trying to create a LLM-based personalized grading to enable independent and open-ended summative assessments under Professor Ayush Pandey at UC Merced.
