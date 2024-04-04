@@ -9,29 +9,29 @@ redirect_from:
 ---
 👨🏻‍💻 I'm a first year currently pursuing a bachelor's degree in Computer Science and Engineering at the University of California, Merced.
 
-📚 I’m currently studying machine learning on the side and I am also doing research around Deep Learning.   
+📚 I’m currently studying Machine Learning on the side and I am also doing research around Deep Learning.   
 
 ✅ I am also interested in assisting others on their path in learning in the world of Machine Learning and Academica. 
 
 # Relevant Experiences
 
 ## 🔬 Research 
-My team and I are currently trying to create a LLM-based personalized autograder to enable grading on independent and open-ended summative assessments. Esentially, we are trying to bridge the gap between Open Source LLM and Educational Technology, thus improving the learning and teaching experience between studnet and teachers.  
+### LLM-based personalized grading to enable independent and open-ended summative assessments
+Our team and I are currently trying to create a LLM-based personalized autograder to enable grading on independent and open-ended summative assessments. Esentially, we are trying to bridge the gap between Open Source LLM and Educational Technology, thus improving the learning and teaching experience between studnet and teachers.  
 
 We are currently going through the final stages of fine-tuning the model and we will be submitting our paper under SIGCSE 2025, Technical Symposium.
 
 This is the large open-source [LLM Auto-Grader](https://github.com/pyEdTools). You can contribute to this page by creating a pull request on GitHub. 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+UCM ACM AI Sig-Lead 
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Orchestrated a series of AI-focused technical workshops as the AI-SIG lead to elevate the club members' expertise in Machine Learning and Deep Learning related topics. 
+
+Topics Covered (2023 - 2024)
+1. Predicting Housing Prices with Multi-Feature Linear Regression Model
+1. Building an Artificial Neural network from scratch using only Python and Numpy 
+1. Building a RAG application from scratch using Python, LangChain, and the OpenAI API
+
 
 Create content & metadata
 ------
