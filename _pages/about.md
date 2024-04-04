@@ -31,4 +31,10 @@ Orchestrated a series of AI-focused technical workshops as the AI-SIG lead to el
 Topics Covered (2023 - 2024)
 1. Predicting Housing Prices with Multi-Feature Linear Regression Model
 1. Building an Artificial Neural network from scratch using only Python and Numpy 
-1. Building a RAG application from scratch using Python, LangChain, and the OpenAI API
+1. Building a RAG application from scratch using Python, LangChain, and the OpenAI API 
+
+## 💻 Community Contributions 
+
+To further contribute to the Machine Learning community, I have a Medium channel where I publish articles on my insightful experiences with Machine Learning and Undergraduate Research.
+
+
