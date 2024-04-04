@@ -9,16 +9,18 @@ redirect_from:
 ---
 👨🏻‍💻 I'm a first year currently pursuing a bachelor's degree in Computer Science and Engineering at the University of California, Merced.
 
-📚 I’m currently studying machine learning on the side and I am also doing research around Deep Learning and Computing Technology.  
+📚 I’m currently studying machine learning on the side and I am also doing research around Deep Learning.   
 
 ✅ I am also interested in assisting others on their path in learning in the world of Machine Learning and Academica. 
 
 # Relevant Experiences
 
 ## 🔬 Research 
-My team and I are currently trying to create a LLM-based personalized autograder to enable grading on independent and open-ended summative assessments. We are currently going through the final stages of fine-tuning the model and we will be submitting our paper under SIGCSE 2025, Technical Symposium.
+My team and I are currently trying to create a LLM-based personalized autograder to enable grading on independent and open-ended summative assessments. Esentially, we are trying to bridge the gap between Open Source LLM and Educational Technology, thus improving the learning and teaching experience between studnet and teachers.  
 
-This is the large open-source [LLM Auto-Grader](https://github.com/pyEdTools) that I've been working with. 
+We are currently going through the final stages of fine-tuning the model and we will be submitting our paper under SIGCSE 2025, Technical Symposium.
+
+This is the large open-source [LLM Auto-Grader](https://github.com/pyEdTools). You can contribute to this page by creating a pull request on GitHub. 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
