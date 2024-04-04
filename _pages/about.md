@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Photo of me teaching in one of my workshops](/images/IMG_5133.png){: .align-right width="500px"}
 👨🏻‍💻 I'm a first year currently pursuing a bachelor's degree in Computer Science and Engineering at the University of California, Merced.
 
 📚 I’m currently studying Machine Learning on the side and I am also doing research around Deep Learning.   
@@ -22,7 +23,6 @@ Our team and I are currently trying to create a LLM-based personalized autograde
 We are currently going through the final stages of fine-tuning the model and we will be submitting our paper under SIGCSE 2025, Technical Symposium.
 
 This is the large open-source [LLM Auto-Grader](https://github.com/pyEdTools). You can contribute to this page by creating a pull request on GitHub. 
-
 ## 🙋🏻‍♂️ Leadership 
 ### UCM ACM AI Sig-Lead 
 ------
